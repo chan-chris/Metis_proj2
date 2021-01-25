@@ -12,8 +12,16 @@ Predicting Vintage Vinyl Resale Prices
 The purpose of the project is to help buyers and sellers estimate prices for vintage jazz vinyl records. 
 
 **Features and Target Variables:**
-The target variable is sales price of an album on Discogs.com. Features used as predictors are : release date, 
-Record label, haves, wants, album ratings, album votes, media condition, sleeve condition, notes, etc.
+The target variable is sales price of an album on Discogs.com. Features used as predictors are :
+- release date, 
+- Record label,
+- haves,
+- wants,
+- album ratings,
+- album votes,
+- media condition,
+- sleeve condition,
+- notes, etc.
 
 **Data Used:** 
 I scraped data from Discogs.com 
